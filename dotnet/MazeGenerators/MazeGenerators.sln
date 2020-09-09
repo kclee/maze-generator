@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BasicMaze", "BasicMaze\BasicMaze.fsproj", "{FA51AF6C-6C33-4692-9EB4-13F4D1B6A2D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsAppBasicMaze", "WindowsFormsAppBasicMaze\WindowsFormsAppBasicMaze.csproj", "{71EF30E1-9633-4CAF-A863-1C4FBDA5ECCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA51AF6C-6C33-4692-9EB4-13F4D1B6A2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA51AF6C-6C33-4692-9EB4-13F4D1B6A2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA51AF6C-6C33-4692-9EB4-13F4D1B6A2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA51AF6C-6C33-4692-9EB4-13F4D1B6A2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EF30E1-9633-4CAF-A863-1C4FBDA5ECCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EF30E1-9633-4CAF-A863-1C4FBDA5ECCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EF30E1-9633-4CAF-A863-1C4FBDA5ECCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EF30E1-9633-4CAF-A863-1C4FBDA5ECCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E7344EB-2FDC-4301-A8FA-24AF52B21AC7}
+	EndGlobalSection
+EndGlobal
